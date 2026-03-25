@@ -10,10 +10,12 @@ int main() {
    Matematica Disc   6.0   5.0   -    5.5
    Calculo           4.0   4.0   4.0  4.0
    */
+   
  char tecla_pressionada = 'A';
  int inteiro = 10;
  float decimal = 5.2f; // ate 6 casas decimais
  double duplo = 5.2; // ate 12 casas decimais
+
  printf("===========================================\n");
  printf("             BOLETIM DE NOTAS    \n");
  printf("===========================================\n"); 
